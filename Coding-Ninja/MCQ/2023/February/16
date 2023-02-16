@@ -1,0 +1,5 @@
+is type casting possible from boolean to char?
+=> No
+
+N.B : char and boolean are not compatible with each other.
+
