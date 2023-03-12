@@ -1,0 +1,6 @@
+What will be the output of the following statement?
+>> print(17//10)
+
+= > 1
+
+N.B : // is floor division. floor division = quotient
