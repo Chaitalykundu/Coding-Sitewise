@@ -1,6 +1,44 @@
-What will be the output of the following statement?
+1.  What will be the output of the following statement?
 >> print(17//10)
 
 = > 1
 
 N.B : // is floor division. floor division = quotient
+
+
+
+2.  Java ternary operation sometimes is called -
+=> conditional operator
+
+
+
+3.  
+
+
+
+4.  Statements: 
+        a. All the harmoniums are instruments.
+        b. All the instruments are flutes.
+    Conclusions:
+        A.All the flutes are instruments.
+        B.All the harmoniums are flutes.
+        
+ = > Only B conclusion follows
+ 
+ 
+ 
+ 5. What will be the output of the following program?
+       >> public class Solution {
+            public static void func( int a, int b ){
+              System.out.println(a+b);
+            }
+
+            public static void func( String arg[] ){
+              int a = 7;
+              func(a,12);
+             }
+         }
+         
+   = > 19
+   
+   
