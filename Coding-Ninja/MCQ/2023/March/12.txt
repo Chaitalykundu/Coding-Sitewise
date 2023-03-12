@@ -12,8 +12,10 @@ N.B : // is floor division. floor division = quotient
 
 
 
-3.  
+3.  Select a figure from the four alternatives that would complete the figure matrix 
+    <img src="https://github.com/Chaitalykundu/Coding-Sitewise/blob/master/Coding-Ninja/MCQ/2023/assets/fig.png">
 
+= > D
 
 
 4.  Statements: 
