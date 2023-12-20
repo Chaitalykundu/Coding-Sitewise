@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chaitaly_kundu/Desktop/Coding-Sitewise/GeeksForGeeks/Amazon/School/03-At-least-two-greater-elements",
-      "program": "c:/Users/chaitaly_kundu/Desktop/Coding-Sitewise/GeeksForGeeks/Amazon/School/03-At-least-two-greater-elements/build/Debug/outDebug",
+      "cwd": "c:/Users/chaitaly_kundu/Desktop/Coding-Sitewise/GeeksForGeeks/CPP-Operator/Basic/The-Size-of",
+      "program": "c:/Users/chaitaly_kundu/Desktop/Coding-Sitewise/GeeksForGeeks/CPP-Operator/Basic/The-Size-of/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
