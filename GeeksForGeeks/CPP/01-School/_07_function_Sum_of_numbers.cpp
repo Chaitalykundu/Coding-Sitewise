@@ -2,9 +2,9 @@
 Author : Chaitaly Kundu
 Date : 16-05-2023
 
-Problem name : Addition of Two Numbers
+Problem name : C++ Functions (Sum of numbers) | Set 1
 
-Problem link : https://practice.geeksforgeeks.org/problems/addition-of-two-numbers0812/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions
+Problem link : https://www.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category=CPP,cpp-strings&difficulty=School&sortBy=submissions
 
 Related question on Leetcode : https://leetcode.com/problems/two-sum/
 */

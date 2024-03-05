@@ -1,22 +1,22 @@
 # School
 
-1.  [Arrays (Sum of array)](https://practice.geeksforgeeks.org/problems/c-arrays-sum-of-array-set-14805/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+1. [Arrays (Sum of array)](https://practice.geeksforgeeks.org/problems/c-arrays-sum-of-array-set-14805/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-2.  [C++ Array (print an element) | Set 2](https://practice.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+2. [C++ Array (print an element) | Set 2](https://practice.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-3.  [C++ if-else (Decision Making)](https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+3. [C++ if-else (Decision Making)](https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-4.  [C++ Input / Output](https://practice.geeksforgeeks.org/problems/c-input-output2432/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+4. [C++ Input / Output](https://practice.geeksforgeeks.org/problems/c-input-output2432/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-5.  [Addition of Two Numbers](https://practice.geeksforgeeks.org/problems/addition-of-two-numbers0812/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+5. [Addition of Two Numbers](https://practice.geeksforgeeks.org/problems/addition-of-two-numbers0812/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-6.  [C++ Strings](https://practice.geeksforgeeks.org/problems/c-strings4609/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+6. [C++ Strings](https://practice.geeksforgeeks.org/problems/c-strings4609/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-7.  [Addition of Two Numbers](https://practice.geeksforgeeks.org/problems/addition-of-two-numbers0812/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+7. [C++ Functions (Sum of numbers) | Set 1](https://www.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category=CPP,cpp-strings&difficulty=School&sortBy=submissions)
 
-8.  [C++ 2-D Arrays | Set-1](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+8. [C++ 2-D Arrays | Set-1](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
-9.  [C++ Switch Case Statement](https://practice.geeksforgeeks.org/problems/c-switch-case-statement5900/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+9. [C++ Switch Case Statement](https://practice.geeksforgeeks.org/problems/c-switch-case-statement5900/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
 10. [C++ Operators | Set 1 (Arithmetic)](https://practice.geeksforgeeks.org/problems/c-operators4602/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
@@ -25,6 +25,8 @@
 12. [C++ Pointers ( Incrementing a variable) | Set 1](https://practice.geeksforgeeks.org/problems/c-pointers-set-1introduction/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
 13. [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
+
+14. [C++ Operators (Relational) | Set 2](https://practice.geeksforgeeks.org/problems/c-operators-relational-set-21407/1?page=1&difficulty[]=-2&category[]=CPP&sortBy=submissions)
 
 &nbsp;
 
