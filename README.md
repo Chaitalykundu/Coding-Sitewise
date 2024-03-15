@@ -19,6 +19,16 @@
 - XOR of similar number is 0
 
 &nbsp;
+
 &nbsp;
+
+# Time Complexity
+
+| Operations | Time Complexity |
+| ---------- | --------------- |
+| pow(n,a)   | O(1)            |
+| n/2        | O(log(n))       |
+| min()      | O(1)            |
+
 &nbsp;
 &nbsp;
