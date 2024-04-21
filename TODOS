@@ -59,9 +59,21 @@
 
 
 15/03/2024:
-    - Coding Mathematical
+    ✔ Coding Mathematical @done(24-03-18 11:02)
         ✔ Maximum money @started(24-03-15 11:00) @done(24-03-15 11:04) @lasted(4m57s)
         ✔ Extract Maximum @started(24-03-15 11:12) @done(24-03-15 11:36) @lasted(24m12s)
         ✔ Finding Position @started(24-03-15 12:16) @done(24-03-15 12:30) @lasted(14m56s)
+        ✔ Repetitive Addition Of Digits @done(24-03-17 11:42)
+
+18-03-2024:
+    - Coding Mathematical
         - Half N by M
-        - Repetitive Addition Of Digits
+        - Pairs of prime number
+        - Substrings with same first and last characters
+        - Check if a number can be expressed as x^y
+
+12-04-2024:
+    - Coding Array
+        - Value equal to index value
+        - At least two greater elements
+

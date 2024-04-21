@@ -24,11 +24,12 @@
 
 # Time Complexity
 
-| Operations | Time Complexity |
-| ---------- | --------------- |
-| pow(n,a)   | O(1)            |
-| n/2        | O(log(n))       |
-| min()      | O(1)            |
+| Operations            | Time Complexity |
+| --------------------- | --------------- |
+| pow(n,a)              | O(1)            |
+| min()                 | O(1)            |
+| n/2                   | O(n)            |
+| n/2 in each iteration | O(log(n))       |
 
 &nbsp;
 &nbsp;

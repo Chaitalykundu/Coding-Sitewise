@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chaitaly_kundu/Desktop/Coding-Sitewise/GeeksForGeeks/Amazon/Topic-wise/02-Array/School/02-At-least-two-greater-elements/Similar-leetcode-question",
-      "program": "c:/Users/chaitaly_kundu/Desktop/Coding-Sitewise/GeeksForGeeks/Amazon/Topic-wise/02-Array/School/02-At-least-two-greater-elements/Similar-leetcode-question/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
