@@ -1,3 +1,25 @@
+/*
+Author : Chaitaly Kundu
+Date : 27-06-2024
+
+Problem name : Sum of Series
+Level : School
+Avg Time : 3m 5s
+
+Problem link :
+https://www.geeksforgeeks.org/problems/sum-of-series2811/1?page=1&difficulty=School&sortBy=submissions
+
+
+Purpose : Crack Amazon interview
+
+Company tag : 
+Topic tag : Mathematical
+
+Process : Formula
+T.C = O(1)
+*/
+
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
