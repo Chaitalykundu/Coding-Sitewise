@@ -1,3 +1,25 @@
+/*
+Author : Chaitaly Kundu
+Date : 27-06-2024
+
+Problem name : Print 1 To N Without Loop
+Level : School
+Avg Time : 2m 47s
+
+Problem link :
+https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1?page=1&difficulty=School&sortBy=submissions
+
+
+Purpose : Crack Amazon interview
+
+Company tag : 
+Topic tag : Recursion, Algorithms
+
+Process : Recursion
+T.C = O(n)
+*/
+
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
